@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="operationsColor">#7C8AE7</color>
+    <color name="advancedOperationsColor">#3649B1</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="horizontal_btn_color">#0F173F</color>
+    <color name="number_color">#233BF8</color>
+    <color name="function_color">#063D74</color>
+    <color name="equal_color">#673AB7</color>
+</resources>
